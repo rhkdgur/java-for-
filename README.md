@@ -45,6 +45,6 @@
      System.out.println(value);
      System.out.println(value);
   }
-  array.size를 부를 필요 없이 바로 해당 값을 들고 오기 때문에 딜레이 걱정이 없다.
+  array.size를 부를 필요도 없고 list를 두번 이상 호출 하는 일이 없게 되어 딜레이 걱정이 없다.
 ```
 
